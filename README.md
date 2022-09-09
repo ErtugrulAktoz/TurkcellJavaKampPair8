@@ -1,2 +1,2 @@
 # TurkcellJavaKampPair8
-Selinay Altun-Öznur Şahin-Resul Ertuğrul Aktoz homework
+Selinay Altun-Öznur Şahin-Ertuğrul Aktoz homework
